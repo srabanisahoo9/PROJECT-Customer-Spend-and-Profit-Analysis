@@ -1,4 +1,4 @@
-# PROJECT1-edulyt
+# Customer Spend and Profit Analysis
 
 # Credit Banking Project Analysis
 
